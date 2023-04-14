@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Noah-1711)
+![Profile Views](https://komarev.com/ghpvc/?username=NoahNirmal)
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
@@ -162,18 +162,18 @@ I’m a Frontend Developer who has passion for building clean web applications w
  
 <p align="center">
  
-[![Noah Nirmal stats](https://github-readme-stats.vercel.app/api?username=Noah-1711&count_private=true&show_icons=true&theme=radical)](https://github.com/Noah-1711)
+[![Noah Nirmal stats](https://github-readme-stats.vercel.app/api?username=NoahNirmal&count_private=true&show_icons=true&theme=radical)](https://github.com/NoahNirmal)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-1711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoahNirmal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noah-1711&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NoahNirmal&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Noah-1711&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NoahNirmal&theme=dark)
  
 <!--  # Productivity Stats📈: -->
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noah-1711&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoahNirmal&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
 </table>
  </p>
@@ -183,9 +183,9 @@ I’m a Frontend Developer who has passion for building clean web applications w
  <br>
  
  <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{Noah-1711}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{NoahNirmal}/count.svg">
   
- ![VisitorCount](https://profile-counter.glitch.me/{Noah-1711}/count.svg)  
+ ![VisitorCount](https://profile-counter.glitch.me/{NoahNirmal}/count.svg)  
   
 </a>
 
@@ -202,5 +202,5 @@ I’m a Frontend Developer who has passion for building clean web applications w
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-Credit: [Noah Nirmal](https://github.com/Noah-1711)
+Credit: [Noah Nirmal](https://github.com/NoahNirmal)
 
