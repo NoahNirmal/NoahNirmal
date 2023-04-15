@@ -16,6 +16,7 @@ I’m a Frontend Developer who has passion for building clean web applications w
 ✔  🔭 &nbsp; I’m currently working on Web Development using React and Redux.
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about  HTML, CSS, JavaScript, React,Java<br>
+ ✔  📫 &nbsp;I have also worked on project such as [Reactflix](https://react-movie-app-swart.vercel.app/) and [Coinspy](https://crypto-tracker-ashen-mu.vercel.app/)<br>
 ✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:noahnirmal11@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noahnirmal/),If I am alive I will answer within seconds 😉<br>
 ✔  📫 &nbsp; I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1QSQ4T7tpPunDcT0Wolx7HnijckS2hvPs/view?usp=drivesdk)
